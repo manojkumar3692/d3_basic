@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  padding: 4rem;
+}
+
+.Chart div {
+  background-color: green;
+  margin: 3px;
+
 }
 
 .App-logo {
